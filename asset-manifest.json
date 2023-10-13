@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/seanadamsdev.github.io/static/css/main.7c0dd811.css",
-    "main.js": "/seanadamsdev.github.io/static/js/main.2caccdd3.js",
-    "static/media/profile.jpg": "/seanadamsdev.github.io/static/media/profile.f156dbc5df447ebf8df1.jpg",
-    "static/media/SeanAdamsCV.pdf": "/seanadamsdev.github.io/static/media/SeanAdamsCV.0f314a79c767a5b5191b.pdf",
-    "static/media/about.jpg": "/seanadamsdev.github.io/static/media/about.16fd5b361966a7b03658.jpg",
-    "static/media/work2.jpg": "/seanadamsdev.github.io/static/media/work2.e52a0c2981a6c11ba468.jpg",
-    "static/media/work4.jpg": "/seanadamsdev.github.io/static/media/work4.aee985961b648f4df1f2.jpg",
-    "static/media/work5.jpg": "/seanadamsdev.github.io/static/media/work5.094ec4a2224db8908873.jpg",
-    "static/media/work1.jpg": "/seanadamsdev.github.io/static/media/work1.321b4ae3bf404acdfdc6.jpg",
-    "static/media/work3.jpg": "/seanadamsdev.github.io/static/media/work3.135e9065694bc13dc31d.jpg",
-    "index.html": "/seanadamsdev.github.io/index.html",
-    "main.7c0dd811.css.map": "/seanadamsdev.github.io/static/css/main.7c0dd811.css.map",
-    "main.2caccdd3.js.map": "/seanadamsdev.github.io/static/js/main.2caccdd3.js.map"
+    "main.css": "/static/css/main.deb2bd12.css",
+    "main.js": "/static/js/main.107b4a06.js",
+    "static/media/profile.jpg": "/static/media/profile.f156dbc5df447ebf8df1.jpg",
+    "static/media/SeanAdamsCV.pdf": "/static/media/SeanAdamsCV.0f314a79c767a5b5191b.pdf",
+    "static/media/about.jpg": "/static/media/about.16fd5b361966a7b03658.jpg",
+    "static/media/work2.jpg": "/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
+    "index.html": "/index.html",
+    "main.deb2bd12.css.map": "/static/css/main.deb2bd12.css.map",
+    "main.107b4a06.js.map": "/static/js/main.107b4a06.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c0dd811.css",
-    "static/js/main.2caccdd3.js"
+    "static/css/main.deb2bd12.css",
+    "static/js/main.107b4a06.js"
   ]
 }
