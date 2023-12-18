@@ -3,7 +3,9 @@
 ![Screenshot 2023-10-13 144654](https://github.com/SeanAdamsDev/seanadamsdev.github.io/assets/66779812/b78be09f-3ba9-4a75-96a4-40c2bfc28047)
 
 
-This is a responsive portfolio site created with ReactJS and plain CSS that implements EmailJS for contact services.
+This is my responsive portfolio site created with ReactJS and plain CSS that implements EmailJS for contact services.
+
+Source Code is uploaded to the Master Branch of this Repository, and the hosted version of the code is then uploaded to the gh-pages branch.
 
 ## **Project Features:**
 - Responsive Layout
