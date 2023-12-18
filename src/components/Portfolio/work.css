@@ -45,6 +45,12 @@
   margin-bottom: var(--mb-0-5);
 }
 
+.work__description {
+  font-size: var(--small-font-size);
+  font-weight: var(--font-small);
+  margin-bottom: var(--mb-0-5);
+}
+
 .work__button {
   width: max-content;
   color: var(--text-color);

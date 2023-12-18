@@ -8,7 +8,9 @@ export const projectsData = [
   {
     id: 1,
     image: Work1,
-    title: "Web design",
+    title: "FLOW Studio Website",
+    description: "Created using WordPress and WooCommerce",
+    work__button: 'https://flowthestudio.co.za/',
     category: "web",
   },
   {

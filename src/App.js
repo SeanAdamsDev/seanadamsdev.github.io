@@ -23,7 +23,7 @@ const App = () => {
       <Skills />
       {/* <Services />
       <Qualification /> */}
-      {/* <Work /> */}
+      <Work />
       <Contact />
     </main>
 

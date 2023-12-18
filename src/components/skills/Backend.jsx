@@ -3,7 +3,7 @@ import React from "react";
 const Backend = () => {
   return (
     <div className="skills__content">
-      <h3 className="skills__title">Backend Developer</h3>
+      <h3 className="skills__title">Backend</h3>
 
       <div className="skills__box">
         <div className="skills__group">
@@ -11,7 +11,7 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">PHP</h3>
+              <h3 className="skills__name">Next.Js</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
@@ -20,7 +20,7 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Node Js</h3>
+              <h3 className="skills__name">Laravel</h3>
               <span className="skills__level">Basic</span>
             </div>
           </div>
@@ -29,7 +29,7 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Next.Js</h3>
+              <h3 className="skills__name">Typescript</h3>
               <span className="skills__level">Basic</span>
             </div>
           </div>
@@ -58,8 +58,8 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Typsecript</h3>
-              <span className="skills__level">Intermediate</span>
+              <h3 className="skills__name">PHP</h3>
+              <span className="skills__level">Basic</span>
             </div>
           </div>
         </div>

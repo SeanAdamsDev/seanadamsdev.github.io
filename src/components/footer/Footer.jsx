@@ -25,6 +25,12 @@ const Footer = () => {
               Contact
             </a>
           </li>
+
+          <li>
+            <a href="#portfolio" className="footer__link">
+              Portfolio
+            </a>
+          </li>
 {/* 
           <li>
             <a href="#testimonials" className="footer__link">
