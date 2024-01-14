@@ -1,5 +1,5 @@
 import Work1 from "../../assets/work1.jpg";
-// import Work2 from "../../assets/work2.jpg";
+import Work2 from "../../assets/work2.jpg";
 // import Work3 from "../../assets/work3.jpg";
 // import Work4 from "../../assets/work4.jpg";
 // import Work5 from "../../assets/work5.jpg";
@@ -13,12 +13,14 @@ export const projectsData = [
     work__button: 'https://flowthestudio.co.za/',
     category: "web",
   },
-  // {
-  //   id: 2,
-  //   image: Work2,
-  //   title: "App movil",
-  //   category: "app",
-  // },
+  {
+    id: 2,
+    image: Work2,
+    title: "AI Fullstack Project",
+    description: "Created using Next.JS, TypeScript, Prisma, Tailwind and Stripe",
+    work__button: 'https://ai-saas-lemon.vercel.app/',
+    category: "app",
+  },
   // {
   //   id: 3,
   //   image: Work3,
