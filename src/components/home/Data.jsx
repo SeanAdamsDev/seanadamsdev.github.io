@@ -6,9 +6,9 @@ const Data = () => {
       <h1 className="home__title">
         Sean Adams
       </h1>
-      <h3 className="home__subtitle">Web Developer</h3>
+      <h3 className="home__subtitle">Full Stack Web Developer</h3>
       <p className="home__description">
-        I'm an enthusiastic Web Developer based in the UK. I'm very passionate about 
+        I'm an enthusiastic React Web Developer based in the UK. I'm very passionate about 
         my work and always looking to challenge myself.
       </p>
 

@@ -11,14 +11,14 @@ const Services = () => {
   return (
     <section className="services section" id="services">
       <h2 className="section__title">Services</h2>
-      <span className="section__subtitle">What i offer</span>
+      <span className="section__subtitle">What I Can Offer You</span>
 
       <div className="services__container container grid">
         <div className="services__content">
           <div>
-            <i className="uil uil-web-grid services__icon"></i>
+            <i className="uil uil-desktop-cloud-alt services__icon"></i>
             <h3 className="services__title">
-              Product <br /> Designer
+              Your Own Website
             </h3>
           </div>
 
@@ -40,43 +40,42 @@ const Services = () => {
                 className="uil uil-times services__modal-close"
               ></i>
 
-              <h3 className="services__modal-title">Product Designer</h3>
+              <h3 className="services__modal-title">A WordPress Website!</h3>
               <p className="services__modal-description">
-                Service with more than 3 years of experience.Providing quality
-                work to clients and companies.
+                This can be for personal or professional use.
               </p>
 
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I develop the user interface.
+                    I will develop your website for you.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Web page development.</p>
+                  <p className="services__modal-info">Find available domain names for your URL name.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I create ux element interactions.
-                  </p>
-                </li>
-
-                <li className="services__modal-service">
-                  <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">
-                    I position your company brand.
+                    Provide the selection of hosts for your website.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Design and mockups of products for companies.
+                    I can create a shopping model to your website.
+                  </p>
+                </li>
+
+                <li className="services__modal-service">
+                  <i className="uil uil-check-circle services__modal-icon"></i>
+                  <p className="services__modal-info">
+                    Can discuss costs after initial proposal.
                   </p>
                 </li>
               </ul>
@@ -86,9 +85,9 @@ const Services = () => {
 
         <div className="services__content">
           <div>
-            <i className="uil uil-arrow services__icon"></i>
+            <i className="uil uil-android services__icon"></i>
             <h3 className="services__title">
-              Ui/Ux <br /> Designer
+              An Android App
             </h3>
           </div>
 
@@ -110,43 +109,35 @@ const Services = () => {
                 className="uil uil-times services__modal-close"
               ></i>
 
-              <h3 className="services__modal-title">Ui/Ux Designer</h3>
+              <h3 className="services__modal-title">Your Own Personal Android App!</h3>
               <p className="services__modal-description">
-                Service with more than 3 years of experience.Providing quality
-                work to clients and companies.
+              This can be for personal use.
               </p>
 
               <ul className="services__modal-services grid">
-                <li className="services__modal-service">
+              <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I develop the user interface.
+                    I will develop your App for you using React Native.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Web page development.</p>
+                  <p className="services__modal-info">Help design the app and provide any necessary integrations.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I create ux element interactions.
-                  </p>
-                </li>
-
-                <li className="services__modal-service">
-                  <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">
-                    I position your company brand.
+                    Export your App as an APK file to use on your phone.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Design and mockups of products for companies.
+                    Can discuss costs after initial proposal.
                   </p>
                 </li>
               </ul>
@@ -154,7 +145,7 @@ const Services = () => {
           </div>
         </div>
 
-        <div className="services__content">
+        {/* <div className="services__content">
           <div>
             <i className="uil uil-edit services__icon"></i>
             <h3 className="services__title">
@@ -222,7 +213,7 @@ const Services = () => {
               </ul>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );

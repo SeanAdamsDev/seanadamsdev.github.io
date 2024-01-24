@@ -1,6 +1,6 @@
 import Work1 from "../../assets/work1.jpg";
 import Work2 from "../../assets/work2.jpg";
-// import Work3 from "../../assets/work3.jpg";
+import Work3 from "../../assets/work3.jpg";
 // import Work4 from "../../assets/work4.jpg";
 // import Work5 from "../../assets/work5.jpg";
 
@@ -19,14 +19,16 @@ export const projectsData = [
     title: "AI Fullstack Project",
     description: "Created using Next.JS, TypeScript, Prisma, Tailwind and Stripe",
     work__button: 'https://ai-saas-lemon.vercel.app/',
+    category: "web",
+  },
+  {
+    id: 3,
+    image: Work3,
+    title: "JobSearch Android App (Web Version)",
+    description: "Created using React Native and Expo. However, hosted on Vercel to display web version. APK file can be sent on request.",
+    work__button: 'https://job-search-app-gamma.vercel.app/home',
     category: "app",
   },
-  // {
-  //   id: 3,
-  //   image: Work3,
-  //   title: "Brand design",
-  //   category: "design",
-  // },
   // {
   //   id: 4,
   //   image: Work4,

@@ -2,7 +2,7 @@ import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.jpg";
 import CV from "../../assets/SeanAdamsCV.pdf";
-import Info from "./Info";
+// import Info from "./Info";
 
 const About = () => {
   return (
@@ -14,7 +14,7 @@ const About = () => {
         <img src={AboutImg} alt="" className="about__img" />
 
         <div className="about__data">
-          <Info />
+          {/* <Info /> */}
 
           <p className="about__description">
           I started out my trade as an Onboarding Specialist, worked my way up 
